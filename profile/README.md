@@ -66,7 +66,17 @@ HUDRA держится на подписках: на них живут серв�
 Эти деньги идут туда же: на серверы и на запасные узлы к тем дням, когда
 основные перестают отвечать.
 
-### Связь
+### Где нас найти
 
-- Бот: [@HudraVPN_BoT](https://t.me/HudraVPN_BoT)
-- Чат: [@hudravpnchat](https://t.me/hudravpnchat)
+Главное — в Telegram: там бот, там поддержка, там мы отвечаем.
+
+- 🤖 Бот: [@HudraVPN_BoT](https://t.me/HudraVPN_BoT)
+- 💬 Чат с живыми людьми: [@hudravpnchat](https://t.me/hudravpnchat)
+
+Остальное — чтобы было видно, что мы существуем не только в переписке:
+
+- [X](https://x.com/hudravpn) · [Instagram](https://instagram.com/hudravpn)
+  · [Threads](https://threads.com/@hudravpn) · [Reddit](https://reddit.com/user/hudravpn)
+
+Пишем там о том же, о чём здесь: когда и где глушат связь, что из этого
+обходится, а что нет.
